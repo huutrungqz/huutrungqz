@@ -7,4 +7,11 @@
 
 ## 🛠 Skills
 ### Data Analysis
-- SQL
+- SQL: Filtering, Aggregrate Function, GROUP BY, Joining data (JOINs & UNION), Manipulate data (CASE, Subquery, CTEs, Windows Fuction)
+- Excel: Pivot table, Vlookup, data cleaning, conditional formating
+- Python
+
+### Data Visualization
+- Power BI: Data Preparation/Transformation (Power Query), Data Modeling (Star/Snowflake Schema, Fact/Dimension table, Table relationships), Data Visualization (interactive dashboard, creating Dax measures)
+
+### Other
