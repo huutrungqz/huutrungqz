@@ -2,9 +2,9 @@
 
 ## Welcome to my GitHub profile
 
-I am currently building my journey toward becoming a Data Analyst, where I share projects focused on data analysis, business insights, and problem-solving using SQL, Excel, Python, and Power BI.
+I am passionate about applying data analysis to solve real business problems and support data-driven decision-making. I work with SQL, Excel, Python, and Power BI to transform raw data into actionable insights, optimize business processes, and improve operational performance.
 
-My background in Supply Chain and International Business helps me approach data with both analytical and business perspectives.
+With a background in Supply Chain and International Business, I combine analytical thinking with business understanding to identify opportunities, measure performance, and deliver practical solutions through data.
 
 ---
 
